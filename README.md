@@ -1,6 +1,6 @@
 # Stop Rude Language (SRL)
 
-Say goodbye to the chaos! Introducing SRL - the ultimate chat filter.
+Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter.
 
 ## [](https://github.com/TitanEmbeds/Titan#features)Features
 
