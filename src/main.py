@@ -13,7 +13,7 @@ async def on_ready():
 
 @client.command()
 async def SRL(ctx):
-    await ctx.send("Stop Rude Language v.1.0.3")
+    await ctx.send("Stop Rude Language v.1.0.0")
 
 @client.event
 async def on_message(message):

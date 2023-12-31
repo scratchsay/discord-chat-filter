@@ -1,0 +1,10 @@
+{
+    "name": "Stop_Rude_Language",
+    "version": "1.0.0",
+    "description": "Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter.",
+    "repository": {
+      "type": "Github",
+      "url": "https://github.com/scratchsay/Stop-Rude-Language/tree/main"
+    },
+    "main": "src/main.py"
+  }
