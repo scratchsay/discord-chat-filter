@@ -1,4 +1,4 @@
-# Stop Rude Language (SRL)
+# Stop Rude Language (Discord bot)
 
 Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter.
 
