@@ -1,6 +1,6 @@
 # Stop Rude Language (Discord bot)
 
-Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter.
+Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter bot.
 
 ## [](https://github.com/TitanEmbeds/Titan#features)Features
 
