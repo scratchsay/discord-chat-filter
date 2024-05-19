@@ -1,10 +1,10 @@
 {
-    "name": "Stop-Rude-Language",
+    "name": "discord-chat-filter",
     "version": "1.0.0",
-    "description": "Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter.",
+    "description": "Discord bot application which aims to eliminate disrespect.",
     "repository": {
       "type": "Github",
-      "url": "https://github.com/scratchsay/Stop-Rude-Language/tree/main"
+      "url": "https://github.com/scratchsay/discord-chat-filter/tree/main"
     },
     "main": "src/main.py"
   }
