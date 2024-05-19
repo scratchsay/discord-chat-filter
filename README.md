@@ -1,9 +1,7 @@
-# Stop Rude Language (Discord bot)
+# Chatfilter Bot
+Discord bot application which aims to eliminate disrespect.
+## Features
 
-Say goodbye to the disrespect! Introducing SRL - the ultimate chat filter bot.
-
-## [](https://github.com/TitanEmbeds/Titan#features)Features
-
--   Detects a huge amount of swear words in its database.
+-   Huge amount of swear words in database
 -   Direct mentions when detected
 -   Open-source
